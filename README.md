@@ -22,3 +22,8 @@ Entrenaremos nuestro modelo en el conjunto de entrenamiento y luego lo evaluarem
 
 Luego de entrenar nuestro modelo, **obtuvimos una precisión del 75% en el conjunto de prueba**.<br>
 Esto significa que nuestro modelo es capaz de clasificar correctamente la estadía de los pacientes en la gran mayoría de los casos.
+
+> ## Conclusiones
+
+Se puede concluir, luego de realizar las predicciones, que para el modelo uno de los aspectos más determinantes sobre la estadía de un paciente es su edad,
+seguido por el área en dónde se ingresa el mismo, se explica dentro del EDA, pero no es lo mismo el ingreso por una fractura en un brazo, que por una enfermedad más grave.
